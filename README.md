@@ -1,4 +1,6 @@
-# Anastasiya Kuzmich MRes Project: REMASTERING IN PROGRESS
+# REMASTERING IN PROGRESS....
+
+# Anastasiya Kuzmich MRes Project: Exploring Matrix And Tensor Decomposition Models As Data-Mining Tools For Neural Correlates Of Perceptual Decision Making In The Human Brain (2021)
 
 During my Masters in Research in Neuroscience, I explored the use of matrix and tensor decomposition models as data-mining tools for neural correlates of perceptual decision-making in the human brain. Having achieved a first-class grade of 86 and graduating with distinction, I went on to pursue a Data Science qualification at General Assembly. 
 
