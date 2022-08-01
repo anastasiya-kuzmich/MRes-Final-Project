@@ -1,10 +1,3 @@
-# Final-Project- REMASTERING IN PROGRESS
+# Anastasiya Kuzmich MRes Project: REMASTERING IN PROGRESS
 
-Anastasiya Kuzmich Final Project
-
-EXPLORING MATRIX AND TENSOR DECOMPOSITION MODELS AS DATA-MINING TOOLS FOR NEURAL CORRELATES OF PERCEPTUAL DECISION MAKING IN THE HUMAN BRAIN
-
-###
-
-Perceptual decision making is the process of making a choice based on the available sensory evidence. This study aimed to explore the capabilities of three matrix decomposition models (independent component analysis (ICA), principal component analysis (PCA) and non-negative matrix factorisation (NMF)) and four tensor decomposition models (PARAFAC, Non-Negative Parafac, Tucker and Non-Negative Tucker) at isolating the well-established neural signatures of decision-making neural markers using a single-subject dataset of EEG activity during a face/car categorisation task at various levels of coherence. Machine learning was applied to determine the decoding accuracy scores of the tensor decomposition models. Tensor decompositions were more successful than matrix decomposition methods, and the two-component Non-Negative Tucker was selected as the model which best represented the original features of the data.
-
+During my Masters in Research in Neuroscience, I explored the use of matrix and tensor decomposition models as data-mining tools for neural correlates of perceptual decision-making in the human brain. Having achieved a first-class grade of 86 and graduating with distinction, I went on to pursue a Data Science qualification at General Assembly. I am now remastering this work to a higher standard of data science practices, with an aim to make this project more accessible to biomedical and programming communities alike, as well as hopefully uncovering novel insights with the use of my more recently acquired tools and techniques. -- Anastasiya, 1st August
